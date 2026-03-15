@@ -5,7 +5,7 @@
 🎨 Building clean, responsive, and user-focused interfaces  
 ⚡ Constantly learning and improving my development skills
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Disciplined+%26+Committed;Always+Learning+and+Improving)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=FullStack+Developer;Disciplined+%26+Committed;Always+Learning+and+Improving)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Anti0I&color=blueviolet&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/Anti0I?label=Followers&style=social)](https://github.com/Anti0I?tab=followers)
