@@ -1,9 +1,9 @@
 <div align="center">
   
  # 💫 About Me  
-🎨 Passionate **Frontend Developer**  
-💻 Focused on crafting clean, responsive & modern UIs  
-🔥 Disciplined, committed, and always learning something new  
+💻 **Full-Stack Developer** focused on modern web applications  
+🎨 Building clean, responsive, and user-focused interfaces  
+⚡ Constantly learning and improving my development skills
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=435&lines=Frontend+Developer;Disciplined+%26+Committed;Always+Learning+and+Improving)
 
@@ -24,7 +24,6 @@
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -42,23 +41,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 💻 IDEs & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-### 🤖 AI & Productivity Tools that i am not scared to use
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
 ## 🎯 Current Focus
 
-- 🚀 Improving in **Next.js, Angular, Kotlin, and Flask**
+- 🚀 Improving in **Next.js, Kotlin, and Flask**
 - 🌱 Expanding backend knowledge with **Python, Java and more**
-- 🧩 Learning **Node.js, C++, and modern API frameworks (FastAPI, Flask)**
-
 ## 📫 Connect With Me
 
 <div align="center">
